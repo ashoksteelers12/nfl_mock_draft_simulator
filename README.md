@@ -1,4 +1,4 @@
-<img align="center" src="/Images/NFLMockDraftSimulator_NFLLogo.png" width="800" /> 
+![NFL Logo](/Images/NFLMockDraftSimulator_NFLLogo.png)
 
 ## Table of Contents
 [Project Description](#project-description)

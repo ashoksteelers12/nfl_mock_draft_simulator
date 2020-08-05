@@ -1,4 +1,3 @@
-![NFL Logo](/Images/NFLMockDraftSimulator_NFLLogo.png)
 <p align="center">
   <img src="/Images/NFLMockDraftSimulator_NFLLogo.png">
 </p>

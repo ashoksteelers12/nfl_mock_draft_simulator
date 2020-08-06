@@ -35,9 +35,11 @@ for each team. The results are then pasted into text files for viewing.
 ## References
 [ESPN](https://www.espn.com/)
 - Utilized their player grading system to manually grade players
+<br>
 [DraftScout](https://draftscout.com/)
 - Gathered player data and respective positions
 - Utilized their draft projections for players to find cut line
+<br>
 [WashingtonPost](https://www.washingtonpost.com/sports/2020/04/17/nfl-draft-needs-all-32-teams/)
 - Collected each teams' needs
 - Link specific to 2020's team needs

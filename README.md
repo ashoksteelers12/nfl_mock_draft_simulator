@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/NFL_logo.png" length="200" width="300">
-  <h2>Personal Project</h2>
 </p>
 
 ## Project-Description
@@ -36,10 +35,5 @@ and round order were placed into text files.
 
 ## References
 #### [ESPN](https://www.espn.com/)
-- Utilized their player grading system to manually grade players 
 #### [DraftScout](https://draftscout.com/)
-- Gathered player data and respective positions
-- Utilized their draft projections for players to find cut line 
 #### [WashingtonPost](https://www.washingtonpost.com/sports/2020/04/17/nfl-draft-needs-all-32-teams/)
-- Collected each teams' needs
-- Link specific to 2020's team needs

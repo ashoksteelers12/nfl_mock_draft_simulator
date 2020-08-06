@@ -7,5 +7,5 @@
   <a href="#project_description">Project Description</a>
 </div>
 
-<h3><a id="project_description">Project Description</a></h3>
+<h2><a id="project_description">Project Description</a></h2>
 

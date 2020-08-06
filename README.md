@@ -20,10 +20,8 @@
   for each team. The results are then pasted into text files for viewing. 
 </div><br>
 
-<div>
-  <h2><a id="technology">Technology</a></h2>
-  <b>Languages: </b>Java
-  <b>IDE: </b>Eclipse
-  <b>Software: </b>Microsoft Excel
-  <b>Text Editor: </b>Notepad
-</div>
+<h2><a id="technology">Technology</a></h2>
+**Languages:** Java
+**IDE:** Eclipse
+**Software:** Microsoft Excel
+**Text Editor:** Notepad

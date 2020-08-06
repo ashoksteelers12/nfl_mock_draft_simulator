@@ -18,12 +18,12 @@
   manually gathered from various sites into Excel files. The program goes through
   the draft order for each round selecting the best player, based on several factors, 
   for each team. The results are then pasted into text files for viewing. 
-</div>
+</div><br>
 
 <div>
   <h2><a id="technology">Technology</a></h2>
-  <p><h4>Languages: </h4>Java</p>
-  <p><h4>IDE: </h4>Eclipse</p>
-  <p><h4>Software: </h4>Microsoft Excel</p>
-  <p><h4>Text Editor: </h4>Notepad</p>
+  <p><b>Languages: </b>Java</p>
+  <p>IDE: Eclipse</p>
+  <p>Software: Microsoft Excel</p>
+  <p>Text Editor: Notepad</p>
 </div>

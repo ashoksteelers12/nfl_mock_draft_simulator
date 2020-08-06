@@ -25,6 +25,12 @@ and round order were placed into text files.
 
 *Note: Not all the data files were added to the Github repository due to space concerns*
 
+## How a Player is Selected?
+The code first checks the needs. It gathers all the players for those needs. It takes the highest graded player
+out of them and selects them. If the needs of a team are done and they still have picks, it gives the team the
+best available player. If a team has a position of need left in which all the players are already taken, then the
+best available player is given to the team. This usually happens in the later rounds. 
+
 ## Limitations
 - Does not simulate mock drafts for years before 2020
   - *Why?* Previous data was not collected

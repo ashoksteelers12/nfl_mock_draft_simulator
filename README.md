@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/NFL_logo.png" length="200" width="300">
 </p>
 
-<div align="center">
+<p align="center">
   <h2>Table of Contents</h2>
   <p><a href="#project_description">Project Description</a></p>
   <p><a href="#technology">Technology</a></p>
@@ -10,7 +10,7 @@
   <p><a href="#data_collection">Data Collection</a></p>
   <p><a href="#limitations">Limitations</a></p>
   <p><a href="#references">References</a></p>
-</div>
+</p>
 
 <h2><a id="project_description">Project Description</a></h2>
 Performs a 7-round mock draft from a user requested year (2020 - present). Data is 

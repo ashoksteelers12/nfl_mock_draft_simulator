@@ -3,7 +3,7 @@
 </p>
 
 ## Table of Contents
-[Project Description](#Description) <br>
+[Project Description](#Project Description) <br>
 [Technology](#Technology) <br>
 [Program Structure](#Program Structure) <br>
 [Data Collection](#Data Collection) <br>

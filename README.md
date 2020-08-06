@@ -22,8 +22,8 @@
 
 <div>
   <h2><a id="technology">Technology</a></h2>
-  <p><b>Languages: </b>Java</p>
-  <p>IDE: Eclipse</p>
-  <p>Software: Microsoft Excel</p>
-  <p>Text Editor: Notepad</p>
+  <b>Languages: </b>Java
+  <b>IDE: </b>Eclipse
+  <b>Software: </b>Microsoft Excel
+  <b>Text Editor: </b>Notepad
 </div>

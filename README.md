@@ -2,15 +2,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/NFL_logo.png" length="200" width="300">
 </p>
 
-<p align="center">
-  <h2>Table of Contents</h2>
-  <p><a href="#project_description">Project Description</a></p>
-  <p><a href="#technology">Technology</a></p>
-  <p><a href="program_structure">Program Structure</a></p>
-  <p><a href="#data_collection">Data Collection</a></p>
-  <p><a href="#limitations">Limitations</a></p>
-  [References](#Project Description)
-</p>
+##Table of Contents
+[Project Description](#Description)
+[Technology](#Technology)
+[Program Structure](#Program Structure)
+[Data Collection](#Data Collection)
+[Limitations](#Limitations)
+[References](#Project Description)
 
 ##Project Description
 Performs a 7-round mock draft from a user requested year (2020 - present). Data is 

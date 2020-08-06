@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/NFL_logo.png" length="200" width="300">
-  Personal Project
+  <h2>Personal Project</h2>
 </p>
 
 ## Project-Description

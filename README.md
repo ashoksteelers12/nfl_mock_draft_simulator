@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/NFL_logo.png" length="200" width="300">
+</p>
 
 ## Table of Contents
 [Project-Description](#Project-Description) <br>
@@ -15,6 +17,10 @@ the draft order for each round selecting the best player, based on several facto
 for each team. The results are then pasted into text files for viewing. 
 
 ## Technology
+**Language:** Java
+**IDE:** Eclipse
+**Software:** Microsoft Excel
+**Text Editor:** Notepad
 
 ## Program-Structure
 

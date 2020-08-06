@@ -12,7 +12,7 @@ for each team. The results are then pasted into text files for viewing.
 **Language(s):** Java <br>
 **IDE(s):** Eclipse <br>
 **Software(s):** Microsoft Excel <br>
-**Text Edito(s)r:** Notepad <br>
+**Text Editor(s):** Notepad <br>
 
 ## Program Structure
 ![Program Structure](/Images/NFLMockDraftSimulator_ProgramStructure.JPG)

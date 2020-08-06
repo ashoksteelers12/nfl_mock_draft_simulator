@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h5>Table of Contents</h5>
+  <h2>Table of Contents</h2>
   <a href="#project_description">Project Description</a>
 </div>
 

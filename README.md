@@ -4,12 +4,12 @@
 
 <div align="center">
   <h2>Table of Contents</h2>
-  <a href="#project_description">Project Description</a>
+  <p><a href="#project_description">Project Description</a></p>
   <p><a href="project_structure">Project Structure</a></p>
-  <a href="#data_collection">Data Collection</a>
-  <a href="#drafting_players">Drafting Players</a>
-  <a href="#limitations">Limitations</a>
-  <a href="#References">References</a>
+  <p><a href="#data_collection">Data Collection</a></p>
+  <p><a href="#drafting_players">Drafting Players</a></p>
+  <p><a href="#limitations">Limitations</a></p>
+  <p><a href="#References">References</a></p>
 </div>
 
 <div>

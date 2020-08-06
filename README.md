@@ -9,20 +9,19 @@
   <p><a href="program_structure">Program Structure</a></p>
   <p><a href="#data_collection">Data Collection</a></p>
   <p><a href="#limitations">Limitations</a></p>
-  <p><a href="#references">References</a></p>
+  [References](#Project Description)
 </p>
 
-<h2><a id="project_description">Project Description</a></h2>
+##Project Description
 Performs a 7-round mock draft from a user requested year (2020 - present). Data is 
 manually gathered from various sites into Excel files. The program goes through
 the draft order for each round selecting the best player, based on several factors, 
 for each team. The results are then pasted into text files for viewing. 
 <br>
 
-<h2><a id="technology">Technology</a></h2>
+##Technology
 **Languages:** Java
 **IDE:** Eclipse
 **Software:** Microsoft Excel
 **Text Editor:** Notepad
 
-##Hello

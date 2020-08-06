@@ -3,20 +3,20 @@
 </p>
 
 ## Table of Contents
-[Project Description](#Project Description) <br>
+[Project-Description](#Project-Description) <br>
 [Technology](#Technology) <br>
-[Program Structure](#Program Structure) <br>
-[Data Collection](#Data Collection) <br>
+[Program Structure](#Program-Structure) <br>
+[Data-Collection](#Data-Collection) <br>
 [Limitations](#Limitations) <br>
 [References](#References) <br>
 
-## Project Description
+## Project-Description
 
 ## Technology
 
-## Program Structure
+## Program-Structure
 
-## Data Collection
+## Data-Collection
 
 ## Limitations
 

@@ -23,6 +23,7 @@ for each team. The results are then pasted into text files for viewing.
 **Text Edito(s)r:** Notepad <br>
 
 ## Program-Structure
+![Program Structure](/Images/NFLMockDraftSimulator_ProgramStructure.JPG)
 
 ## Data-Collection
 As mentioned in the project description, the data was manually collected and inserted into 

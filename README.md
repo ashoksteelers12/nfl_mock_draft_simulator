@@ -1,14 +1,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/NFL_logo.png" length="200" width="300">
+  Personal Project
 </p>
-
-## Table of Contents
-[Project-Description](#Project-Description) <br>
-[Technology](#Technology) <br>
-[Program Structure](#Program-Structure) <br>
-[Data-Collection](#Data-Collection) <br>
-[Limitations](#Limitations) <br>
-[References](#References) <br>
 
 ## Project-Description
 Performs a 7-round mock draft from a user requested year (2020 - present). Data is 

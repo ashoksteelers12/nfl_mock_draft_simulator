@@ -12,7 +12,7 @@
 
 ## Project-Description
 Performs a 7-round mock draft from a user requested year (2020 - present). Data is 
-manually gathered from various sites into Excel files. The program goes through
+manually gathered from various sites into Excel/Text files. The program goes through
 the draft order for each round selecting the best player, based on several factors, 
 for each team. The results are then pasted into text files for viewing. 
 
@@ -25,12 +25,20 @@ for each team. The results are then pasted into text files for viewing.
 ## Program-Structure
 
 ## Data-Collection
+As mentioned in the project description, the data was manually collected and inserted into 
+files. The player data was placed into Excel files, with an Excel file for each position. 
+The player data consisted of name, college, graduated (yes/no), and grade. The team needs
+and round order were placed into text files. 
+
+*Note: Not all the data files were added to the Github repository due to space concerns*
 
 ## Limitations
 - Does not simulate mock drafts for years before 2020
   - *Why?* Previous data was not collected
 - Currently only simulates the 2020 NFL Draft
   - *Why?* Future data has not been collected yet.
+- Draft pool does not contain all the draft-eligible players
+  - *Why?* Players with a round 1-7 draft projection were only incorporated
 
 ## References
 #### [ESPN](https://www.espn.com/)

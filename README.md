@@ -17,10 +17,10 @@ the draft order for each round selecting the best player, based on several facto
 for each team. The results are then pasted into text files for viewing. 
 
 ## Technology
-**Language:** Java
-**IDE:** Eclipse
-**Software:** Microsoft Excel
-**Text Editor:** Notepad
+**Language:** Java <br>
+**IDE:** Eclipse <br>
+**Software:** Microsoft Excel <br>
+**Text Editor:** Notepad <br>
 
 ## Program-Structure
 

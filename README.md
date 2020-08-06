@@ -5,4 +5,4 @@
   <a href="#project_description">Project Description</a>
 </p>
 
-<a id="project_description"><h3>Project Description</h3></a>
+<h3><a id="project_description">Project Description</a></h3>

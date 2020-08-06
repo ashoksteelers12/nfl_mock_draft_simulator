@@ -14,10 +14,10 @@ for each team. The results are then pasted into text files for viewing.
 **Software(s):** Microsoft Excel <br>
 **Text Edito(s)r:** Notepad <br>
 
-## Program-Structure
+## Program Structure
 ![Program Structure](/Images/NFLMockDraftSimulator_ProgramStructure.JPG)
 
-## Data-Collection
+## Data Collection
 As mentioned in the project description, the data was manually collected and inserted into 
 files. The player data was placed into Excel files, with an Excel file for each position. 
 The player data consisted of name, college, graduated (yes/no), and grade. The team needs

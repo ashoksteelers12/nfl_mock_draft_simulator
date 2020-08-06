@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>Table of Contents</h2>
-  <ul>
+  <ul style="list-style-type:none;">
     <li><a href="#project_description">Project Description</a></li>
     <li><a href="project_structure">Project Structure</a></li>
     <li><a href="#data_collection">Data Collection</a></li>

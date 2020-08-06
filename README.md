@@ -4,9 +4,9 @@
 
 ## Table of Contents
 [Project Description](#Description) <br>
-[Technology](#Technology)
-[Program Structure](#Program Structure)
-[Data Collection](#Data Collection)
-[Limitations](#Limitations)
-[References](#References)
+[Technology](#Technology) <br>
+[Program Structure](#Program Structure) <br>
+[Data Collection](#Data Collection) <br>
+[Limitations](#Limitations) <br>
+[References](#References) <br>
 

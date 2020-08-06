@@ -17,16 +17,20 @@ the draft order for each round selecting the best player, based on several facto
 for each team. The results are then pasted into text files for viewing. 
 
 ## Technology
-**Language:** Java <br>
-**IDE:** Eclipse <br>
-**Software:** Microsoft Excel <br>
-**Text Editor:** Notepad <br>
+**Language(s):** Java <br>
+**IDE(s):** Eclipse <br>
+**Software(s):** Microsoft Excel <br>
+**Text Edito(s)r:** Notepad <br>
 
 ## Program-Structure
 
 ## Data-Collection
 
 ## Limitations
+- Does not simulate mock drafts for years before 2020
+  - *Why?* Previous data was not collected
+- Currently only simulates the 2020 NFL Draft
+  - *Why?* Future data has not been collected yet.
 
 ## References
 

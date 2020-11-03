@@ -1,14 +1,3 @@
-<head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T6WQCBSGQB"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-T6WQCBSGQB');
-  </script>
-</head>
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/NFL_logo.png" length="200" width="300">
 </p>

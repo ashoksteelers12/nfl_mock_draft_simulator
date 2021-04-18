@@ -2,44 +2,31 @@
   <img src="Images/NFLMockDraftSimulator_NFLLogo.png" length="200" width="300">
 </p>
 
-## Project Description 
-Performs a 7-round mock draft from a user requested year (2020 - present). Data is 
-manually gathered from various sites into Excel/Text files. The program goes through
-the draft order for each round selecting the best player, based on several factors, 
-for each team. The results are then pasted into text files for viewing. 
+Under Construction
+# NFL Mock Draft Simulator
 
-## Technology
-**Language(s):** Java <br>
-**IDE(s):** Eclipse <br>
-**Software(s):** Microsoft Excel <br>
-**Text Editor(s):** Notepad <br>
+A template mock draft program to help you perform a 7-round mock draft for a requested year. Repository consists of the test on the 2020 NFL Draft data as an example and guide for performing past and future draft simulations.  
 
-## Program Structure
-![Program Structure](/Images/NFLMockDraftSimulator_ProgramStructure.JPG)
+## Table of Contents
+- [About](#about)
+    - [How It Works](#how-it-works)
+    - [Program Design](#program-design)
+- [Usage](#usage)
+- [Installation](#installation)
+- [Modifications](#modifications)
+- [References](#references)
 
-## Data Collection
-As mentioned in the project description, the data was manually collected and inserted into 
-files. The player data was placed into Excel files, with an Excel file for each position. 
-The player data consisted of name, college, graduated (yes/no), and grade. The team needs
-and round order were placed into text files. 
+## About
 
-*Note: Not all the data files were added to the Github repository due to space concerns*
+### How It Works
 
-## How a Player is Selected?
-The code first checks the needs. It gathers all the players for those needs. It takes the highest graded player
-out of them and selects them. If the needs of a team are done and they still have picks, it gives the team the
-best available player. If a team has a position of need left in which all the players are already taken, then the
-best available player is given to the team. This usually happens in the later rounds. 
+### Program Design
 
-## Limitations
-- Does not simulate mock drafts for years before 2020
-  - *Why?* Previous data was not collected
-- Currently only simulates the 2020 NFL Draft
-  - *Why?* Future data has not been collected yet.
-- Draft pool does not contain all the draft-eligible players
-  - *Why?* Players with a round 1-7 draft projection were only incorporated
+## Usage
+
+### Installation
+
+### Modifications
 
 ## References
-#### [ESPN](https://www.espn.com/)
-#### [DraftScout](https://draftscout.com/)
-#### [WashingtonPost](https://www.washingtonpost.com/sports/2020/04/17/nfl-draft-needs-all-32-teams/)
+

@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="Images/NFLMockDraftSimulator_NFLLogo.png" length="200" width="300">
+  <img src="Images/NFLMockDraftSimulator_NFLLogo.png" length="50" width="100">
 </p>
 
-Under Construction
 # NFL Mock Draft Simulator
 
-A template mock draft program to help you perform a 7-round mock draft for a requested year. Repository consists of the test on the 2020 NFL Draft data as an example and guide for performing past and future draft simulations. 
+A template mock draft program to help you perform a 7-round mock draft for a requested year. This particular simulator focuses on a simulation highly dependant on prospect's draft grade and position, in addition to a team's needs. Repository consists of the test on the 2020 NFL Draft data as an example and guide for performing past and future draft simulations. 
 
 ## Table of Contents
 - [About](#about)
@@ -47,9 +46,10 @@ Each round has its own text file containing when each team is picking and at wha
 
 ## Usage
 
-Files are named with the ending NFLXXXX, in which XXXX is the year. In the 2020 test program, one can see that the files end with NFL2020. Simply copy and past the PreDraftData-NFL2020 and PostDraftData-NFL2020 folders and replace 2020 with the year one would want to simulate. Go into each file and update stuff like needs and player data, but maintain the same format. If more factors other than position and grade are desired, then the position csv files must contain more columns and the program must be modified to take into account those factors. 
+Files are named with the ending NFLXXXX, in which XXXX is the year. In the 2020 test program, one can see that the files end with NFL2020. Simply copy and past the PreDraftData-NFL2020 and PostDraftData-NFL2020 folders and replace 2020 with the year one would want to simulate. Go into each file and update stuff like needs and player data, but maintain the same format. If more factors other than position and grade are desired, then the position csv files must contain more columns and the program must be modified to take into account those factors. If you already have an accurate way of grading players or a grading system programmed, you can combine it with this simulator by having the grades output into the csv files in the right format. 
 
 ## References
 
 [ESPN](https://www.espn.com/nfl/draft/news)
+
 [DraftScout](https://draftscout.com/)

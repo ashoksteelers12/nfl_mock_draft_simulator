@@ -31,4 +31,5 @@ A template mock draft program to help you perform a 7-round mock draft for a req
 
 ## References
 
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members

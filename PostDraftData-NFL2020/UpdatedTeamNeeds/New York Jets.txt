@@ -1,7 +1,6 @@
 OT
 OG
-Center
-RB
+WR
 CB
 OLB
 DE

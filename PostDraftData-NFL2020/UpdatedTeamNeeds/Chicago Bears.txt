@@ -1,7 +1,8 @@
 OT
 OG
 Center
-RB
+WR
+WR
 CB
-OLB
-DE
+FS
+SS

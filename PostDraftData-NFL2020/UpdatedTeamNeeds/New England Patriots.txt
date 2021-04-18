@@ -1,7 +1,10 @@
-CB
+QB
 ILB
-DE
 DT
+FS
+SS
+TE
+WR
 OT
 OG
 Center

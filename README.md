@@ -5,6 +5,7 @@
 # NFL Mock Draft Simulator
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](http://forthebadge.com)
 
 A template mock draft program to help you perform a 7-round mock draft for a requested year. This particular simulator focuses on a simulation highly dependant on prospect's draft grade and position, in addition to a team's needs. Repository consists of the test on the 2020 NFL Draft data as an example and guide for performing past and future draft simulations. 
 

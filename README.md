@@ -57,4 +57,6 @@ Files are named with the ending NFLXXXX, in which XXXX is the year. In the 2020 
 
 [DraftScout](https://draftscout.com/)
 
-Copyright 2020, Ashok Meyyappan, All rights reserved.
+<p align="center">
+  Copyright 2020, Ashok Meyyappan, All rights reserved.
+</p>

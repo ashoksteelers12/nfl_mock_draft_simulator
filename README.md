@@ -1,6 +1,6 @@
-<p align="center">
+<a href="www.nfl.com"><p align="center">
   <img src="Images/NFLMockDraftSimulator_NFLLogo.png" length="50" width="100">
-</p>
+</p></a>
 
 # NFL Mock Draft Simulator
 
